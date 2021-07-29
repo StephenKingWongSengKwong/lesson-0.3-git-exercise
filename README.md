@@ -1,11 +1,25 @@
 # GitHub Desktop Exercise
 
-This is a sentence.
+Hey there , a big chellenge to get to here.
+Hee Hee.
 
-Congratulations, you have successfully forked this repository!
+Can push and cannot pull leh.
 
-This is a [google website](https://www.google.com)
+The branch concept cannot understand aso!
 
-This is a [google website](https://www.google.com)
+Saw alot of things happened in the github BUT dont understang.
+Oops. got to Google how to use Github Desk Top.
 
-This is a [google website](https://www.google.com)
+CLI even Chim lah!
+
+git init
+git add .
+git status
+git commit -m "xxx"
+.......
+
+Cannot remember so many ...
+
+Edison please send note to us for all the common commands !!--help .
+
+Aiyo yo .
